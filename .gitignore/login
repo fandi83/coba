@@ -1,0 +1,184 @@
+<html>
+
+<head><title>121411091-SYAIFUL</title>
+
+<style> 
+Taruh CSS disini
+
+</style>
+
+</head>
+
+<body>
+
+<div id="batas">
+
+<div id="head">
+
+<center><h1>City Gallery</h1></center>
+
+</div>
+
+<div id="sideleft">
+
+<ul id="hv">LONDON</ul>
+
+<ul id="hv">PARIS</ul>
+
+<ul id="hv">TOKYO</ul>
+
+</div>
+
+<div id="content">
+
+<h2>LONDON</h2>
+
+<p>London is the capital city of England. If is the most populous city in the United Kingdom, with a metropolitan area of over 13 million inhabitants.</p>
+
+<p>Standing on the River Thames, London has been a major settlement for two millennia, its history going back to its founding by the Romans, who named it Londinium.</p>
+
+</div>
+
+<div id="foot">
+
+<center><strong><u>LONDON</u></strong></center>
+
+</div>
+
+</div>
+
+</body>
+
+</html>
+
+
+
+Taruh kode ini di dalam tag <style>......</style>
+
+
+#batas{
+
+  font-family: century gothic;
+
+  width: 700px;
+
+  height: 500px;
+
+  margin-left: auto;
+
+  margin-right: auto;
+
+  background-color: #ccf;
+
+}
+
+
+
+#head{
+
+  height: 80px;
+
+  background-color: #05bfbf;
+
+  padding: 10px;
+
+}
+
+
+
+#sideleft{
+
+  width: 180px;
+
+  float: left;
+
+  height: 330px;
+
+  background-color: #b7f8f8;
+
+  margin-bottom: 5px;
+
+  margin-top: 5px;
+
+  padding: 5px;
+
+}
+
+
+
+#content{
+
+  float: right;
+
+  width: 490px;
+
+  height: 330px;
+
+  margin-left: 5px;
+
+  margin-top: 5px;
+
+  margin-right: 5px;
+
+  margin-bottom: 5px;
+
+  background-color: white;
+
+  padding: 5px;
+
+}
+
+
+
+#foot{
+
+  height: 20px;
+
+  width: 670;
+
+  background-color: #4e4949;
+
+  float: left;
+
+  color: white;
+
+  padding: 15px;
+
+  margin-left: auto;
+
+  margin-right: auto;
+
+}
+
+
+
+#hv:hover{
+
+  border-bottom: 2px;
+
+  border-bottom-style: solid;
+
+  border-bottom-color: blue;
+
+  color: #0883d1;
+
+}
+
+#hv{
+
+  padding-left: 2px;
+
+  padding-right: 2px;
+
+  padding-top: 2px;
+
+  padding-bottom: 2px;
+
+  border-bottom: 1px;
+
+  border-bottom-style: solid;
+
+  border-bottom-color: black;
+
+}
+
